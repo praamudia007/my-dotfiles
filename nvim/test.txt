@@ -1,0 +1,9 @@
+| Bentuk cursor          | Nilai    | Tampilan |
+| ---------------------- | -------- | -------- |
+| Block                  | `block`  | `█`      |
+| Vertical               | `ver25`  | `│`      |
+| Vertical lebih tipis   | `ver10`  | `│`      |
+| Horizontal             | `hor20`  | `━`      |
+| Horizontal lebih tipis | `hor10`  | `━`      |
+| Tidak terlihat         | `a:None` | —        |
+
