@@ -47,3 +47,6 @@ vim.keymap.set("n", "<C-q>", "<cmd>q<CR>", { desc = "Close window" })
 
 -- Tutup terminal saat berada di terminal mode
 vim.keymap.set("t", "<C-q>", "<C-\\><C-n><cmd>q<CR>", { desc = "Close terminal" })
+
+-- Copy all
+vim.keymap.set("n", "<C-a>", ":%y+<CR>", { desc = "Copy all" })
