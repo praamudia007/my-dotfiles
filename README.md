@@ -1,4 +1,14 @@
 #membuat readme
 test
 
-git clone
+```bash
+cp nvim ~/.config/
+```
+
+```bash
+cp nvim ~/.config/
+```
+
+```bash
+cp nvim ~/.config/
+```
