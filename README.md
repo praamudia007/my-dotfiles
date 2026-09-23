@@ -3,15 +3,21 @@ test
 
 Niri
 ```bash
-cp nvim ~/.config/
+cd ~
+git clone https://github.com/praamudia007/my-dotfiles.git
+cp -r ~/my-dotfiles/niri ~/.config/
 ```
 
 Nvim
 ```bash
-cp nvim ~/.config/
+cd ~
+git clone https://github.com/praamudia007/my-dotfiles.git
+cp -r ~/my-dotfiles/nvim ~/.config/
 ```
 
 kitty
 ```bash
-cp nvim ~/.config/
+cd ~
+git clone https://github.com/praamudia007/my-dotfiles.git
+cp -r ~/my-dotfiles/kitty ~/.config/
 ```
