@@ -1,5 +1,3 @@
-#membuat readme
-test
 
 Niri
 ```bash
